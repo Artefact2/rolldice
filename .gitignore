@@ -1,0 +1,4 @@
+lex.yy.c
+rolldice.tab.c
+rolldice.tab.h
+rolldice
